@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**xiaoyuu857/xiaoyuu857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 About Me
+I'm currently diving deep into the world of Digital Asset Management (DAM), exploring how to streamline the organization, storage, and retrieval of digital assets. I'm passionate about leveraging technology to enhance content accessibility and efficiency.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+Here are some projects I've worked on that demonstrate my interest in DAM and technology:
+- **Chinese Idioms Test**: A tool to test your chinese idioms knowledge.
+- **Apple Sushi Restaurant Website**: A website for a sushi restaurant which allows online orders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Digital Asset Management
+- Metadata Standards
+- Programming: Python, Java
+- Database Management: SQL, NoSQL
+- Web Development: HTML, CSS, React
+
+## 📈 Learning & Goals
+I'm currently learning more about cloud storage solutions and advanced metadata strategies to support scalable DAM systems. My goal is to contribute to innovative projects that make digital content more accessible and manageable.
+
+Feel free to reach out if you're interested in DAM, want to collaborate on a project, or just chat about technology!
