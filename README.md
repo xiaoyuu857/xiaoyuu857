@@ -1,7 +1,7 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Xiaoyu! 👋
 
 ## 📚 About Me
-I'm currently diving deep into the world of Digital Asset Management (DAM), exploring how to streamline the organization, storage, and retrieval of digital assets. I'm passionate about leveraging technology to enhance content accessibility and efficiency.
+I'm currently diving deep into the world of Multiplatform Application Development (DAM), exploring how to streamline the organization, storage, and retrieval of digital assets. I'm passionate about leveraging technology to enhance content accessibility and efficiency.
 
 ## 🚀 Projects
 Here are some projects I've worked on that demonstrate my interest in DAM and technology:
